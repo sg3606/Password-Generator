@@ -23,3 +23,6 @@ Select password types\
 ![step7](./assets/screenshots/7.png)\
 Random password will be generated\
 ![step7](./assets/screenshots/8.png)
+
+# Generator GitHub site
+[Github Site](https://sg3606.github.io/Password-Generator/.)\
